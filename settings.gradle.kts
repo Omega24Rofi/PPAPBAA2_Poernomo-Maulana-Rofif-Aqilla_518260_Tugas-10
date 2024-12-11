@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MovieEncyclopedia"
+rootProject.name = "Email RecycleView"
 include(":app")
  

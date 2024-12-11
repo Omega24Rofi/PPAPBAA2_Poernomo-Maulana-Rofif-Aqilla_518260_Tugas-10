@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MovieEncyclopedia</string>
+    <string name="app_name">Email RecycleView</string>
+    <!-- Strings used for fragments for navigation -->
+
 </resources>
